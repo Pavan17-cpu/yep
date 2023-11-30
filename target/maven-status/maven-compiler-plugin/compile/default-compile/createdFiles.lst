@@ -1,0 +1,6 @@
+com\p1\trail\repository\Repository.class
+com\p1\trail\model\Work.class
+com\p1\trail\BackendApplication.class
+com\p1\trail\ServletInitializer.class
+com\p1\trail\controller\SpringController.class
+com\p1\trail\dao\DAO.class
